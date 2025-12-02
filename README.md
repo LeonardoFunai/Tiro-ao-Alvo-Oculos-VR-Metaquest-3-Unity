@@ -13,6 +13,7 @@ Este é um simulador de "Tiro ao Alvo" desenvolvido na engine **Unity** utilizan
 O cenário recria a atmosfera de um parque de diversões, com atrações animadas ao fundo (Roda Gigante, Carrinho Bate-Bate, Carrossel, Elevador) e uma barraca principal onde o jogador deve derrubar latas, garrafas e alvos dinâmicos.
 
 ![Barraca Principal](fotos/barraca.png)
+![Ambiente](fotos/ambiente.png)
 
 ---
 
