@@ -20,7 +20,9 @@ O cenário recria a atmosfera de um parque de diversões, com atrações animada
 
 | Visão Geral do Mapa | Área de Interação (Armas) |
 |:---:|:---:|
-| <img src="fotos/mapa.png" width="100%"> | <img src="fotos/mesa.png" width="100%"> |
+| <img src="fotos/mapa.png" width="100%"> | <img src="fotos/ambiente.png" width="100%"> |
+<img src="fotos/mesa.png" width="100%"> |
+
 | **Cenário completo com atrações animadas** | **Pistola e Rifle com física de colisão** |
 
 | Detalhe dos Alvos | Sistema de Reset Físico |
