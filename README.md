@@ -12,20 +12,22 @@ Este é um simulador de "Tiro ao Alvo" desenvolvido na engine **Unity** utilizan
 
 O cenário recria a atmosfera de um parque de diversões, com atrações animadas ao fundo (Roda Gigante, Carrinho Bate-Bate, Carrossel, Elevador) e uma barraca principal onde o jogador deve derrubar latas, garrafas e alvos dinâmicos.
 
-![Barraca Principal](fotos/barraca.jpg)
+![Barraca Principal](fotos/barraca.png)
+![Ambiente](fotos/ambiente.png)
 
 ---
 
 ## 📸 Galeria do Projeto
 
-| Visão Geral do Mapa | Área de Interação (Armas) |
+| Visão Geral do Mapa | Mesa de Interações (Armas) |
 |:---:|:---:|
-| <img src="fotos/mapa.jpg" width="100%"> | <img src="fotos/mesa.jpg" width="100%"> |
+| <img src="fotos/mapa.png" width="100%"> | <img src="fotos/mesa.png" width="100%"> |
+
 | **Cenário completo com atrações animadas** | **Pistola e Rifle com física de colisão** |
 
 | Detalhe dos Alvos | Sistema de Reset Físico |
 |:---:|:---:|
-| <img src="fotos/alvos.jpg" width="100%"> | <img src="fotos/botoes-alvos.jpg" width="100%"> |
+| <img src="fotos/alvos.png" width="100%"> | <img src="fotos/botoes-alvos.png" width="100%"> |
 | **Latas, Garrafas e Patos (Ragdoll)** | **Botões acionados por tiro (Sem UI 2D)** |
 
 ---
